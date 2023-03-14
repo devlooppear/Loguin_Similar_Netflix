@@ -12,9 +12,10 @@ O layout é responsivo e se adapta a diferentes tamanhos de tela. A página poss
 - Git: Sistema de controle de versão utilizado para gerenciar o código-fonte.
 
 ## Executando o projeto
+
 Para executar o projeto localmente, siga as etapas abaixo:
 
-- Clone este repositório usando o comando `git clone `no terminal ou prompt de comando;
+- Clone este repositório usando o comando `git clone https://github.com/devlooppear/Loguin_Similar_Netflix.git`no terminal ou prompt de comando;
 - Navegue até o diretório onde o repositório foi clonado;
 - Abra o arquivo index.html em um navegador da web;
 - O site deve ser carregado e você deve ver a página de login da Netflix. Agora, você pode inserir suas credenciais de login e acessar sua conta.
